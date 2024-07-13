@@ -1,0 +1,5 @@
+# 忽略超大文件
+*.safetensors
+model-00001-of-00004.zip
+model-00002-of-00004.zip
+model-00003-of-00004.zip
